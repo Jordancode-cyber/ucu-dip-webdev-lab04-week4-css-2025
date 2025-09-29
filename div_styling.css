@@ -1,0 +1,40 @@
+.mainDiv{
+    border: 1px solid black;
+    margin: 20px;
+    background-color: blue;
+}
+
+.navDiv{
+    border: 1px solid black;
+    height: 50px;
+    background-color: bisque;
+    margin: 10px;
+}
+
+.div{
+    border: 1px solid black
+}
+
+.mainsection{
+    height: 400px;
+    background-color: white;
+    border: 1px solid black;
+}
+
+.leftdiv{
+   width: 30%;
+   background-color: lightcoral;
+   height: 400px;
+   float: left;
+}
+.rightdiv{
+    width: 65%;
+    background-color: lightcoral;
+    height: 400px;
+    float: right;
+}
+
+.footerdiv{
+    background-color: lightblue;
+    height: 90px;
+}
